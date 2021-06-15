@@ -1,19 +1,17 @@
 {
-  "dependencies": {
-    "colors": "^1.4.0",
-    "discord.js": "^12.5.3"
-  },
-  "devDependencies": {
-    "@types/colors": "^1.2.1"
-  },
   "name": "discord-advanced-events",
   "version": "1.0.0",
-  "main": "index.js",
-  "types": "index.ts",
+  "main": "lib/index.js",
+  "types": "lib",
   "scripts": {
-    "test": "nodemon client.ts"
+    "build": "tsc --build"
   },
-  "author": "",
+  "author": "nikyoff",
   "license": "ISC",
-  "description": ""
+  "description": "Advanced discord.js events",
+  "dependencies": {
+    "@types/colors": "^1.2.1",
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.3"
+  }
 }

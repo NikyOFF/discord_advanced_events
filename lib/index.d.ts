@@ -39,3 +39,4 @@ declare namespace DiscordAdvancedEvents {
     }
 }
 export default DiscordAdvancedEvents;
+//# sourceMappingURL=index.d.ts.map
