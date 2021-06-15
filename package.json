@@ -12,7 +12,6 @@
   "dependencies": {
     "@types/colors": "^1.2.1",
     "colors": "^1.4.0",
-    "discord-advanced-events": "github:NikyOFF/discord_advanced_events",
     "discord.js": "^12.5.3"
   }
 }
