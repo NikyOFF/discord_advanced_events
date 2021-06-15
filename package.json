@@ -11,8 +11,7 @@
   "main": "index.js",
   "types": "index.ts",
   "scripts": {
-    "test": "nodemon client.ts",
-    "build": "tsc --build"
+    "test": "nodemon client.ts"
   },
   "author": "",
   "license": "ISC",
